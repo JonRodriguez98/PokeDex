@@ -3,6 +3,7 @@
 
 This application is an online version of a PokeDex from the popular animated series
 Pokemon. This program was developed in JavaScript and fetches JSON data from pokeapi.co.
+The application allows for users to access 898 pokemon and retrieve their information.
 
 
 ## Authors
